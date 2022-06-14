@@ -1,1 +1,1 @@
-# Snaps_1
+# Just snaps
